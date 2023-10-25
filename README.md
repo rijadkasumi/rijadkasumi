@@ -3,7 +3,7 @@
 
 ### 🎓 Education: Computer Sciencec at Hunter College
 
-⚡ About me: I love Soccer, Calisthenics, and Music!
+⚡ About me: I love Snowboarding, Calisthenics, and Music!
 - 🔭 I’m currently working on a Weather App.
 - 🌱 I’m currently learning Flutter, Firebase, Firestore.
 
