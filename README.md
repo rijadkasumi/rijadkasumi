@@ -13,5 +13,5 @@ Firebase, AWS, DynamoDB, Apache Hadoop, PySpark, Docker, Blockchain
 You can find me on GitHub and LinkedIn:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/rijadkasumi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-a-1346ab23b](https://www.linkedin.com/in/rijadkasumi/)/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijadkasumi/)
 
