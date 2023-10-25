@@ -1,14 +1,19 @@
-### Hi there 👋 I'm Rijad Kasumi Computer Science Major At Hunter College
+### Hi there 👋 I'm Rijad Kasumi
+  👨‍💻 Software Engineer | 📱App & 🌐 Web Developer | 🌍 New York City
+
+### 🎓 Education: Computer Sciencec at Hunter College
+
+⚡ About me: I love Soccer, Calisthenics, and Music!
 - 🔭 I’m currently working on a Weather App.
 - 🌱 I’m currently learning Flutter, Firebase, Firestore.
 
-## Skills
-I have experience in a wide range of technologies, including:
+### 🛠 Skills
+  I have experience in a wide range of technologies, including:
 
 Python, JavaScript, HTML, CSS, React JS, C++, Flufer, Swift, MongoDB,
 Firebase, AWS, DynamoDB, Apache Hadoop, PySpark, Docker, Blockchain
 
-## Connect with me
+## 🤝 Connect with me
 
 You can find me on GitHub and LinkedIn:
 
