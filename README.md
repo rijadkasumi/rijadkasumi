@@ -15,8 +15,8 @@ Firebase, AWS, Apache Hadoop, PySpark, Docker, Blockchain.
 
 ## 🤝 Connect with me
 
-You can find me on GitHub and LinkedIn:
+You can also find me on LinkedIn:
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/rijadkasumi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijadkasumi/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/rijadkasumi)
 
