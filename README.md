@@ -4,8 +4,8 @@
 ### 🎓 Education: Computer Sciencec at Hunter College
 
 ⚡ About me: I love Snowboarding, Calisthenics, and Music!
-- 🔭 I’m currently working on a Weather App and on HackerRank problems.
-- 🌱 I’m currently learning Flutter, Firebase, Firestore.
+- 🔭 I’m currently working on a Parking App and on LeetCode problems.
+- 🌱 I’m currently learning AWS, Flutter, Firebase, Firestore.
 
 ### 🛠 Skills
   I have experience in a wide range of technologies, including:
