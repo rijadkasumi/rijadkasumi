@@ -5,13 +5,13 @@
 
 ⚡ About me: I love Snowboarding, Calisthenics, and Music!
 - 🔭 I’m currently working on a Parking App and on LeetCode problems.
-- 🌱 I’m currently learning AWS, Flutter, Firebase, Firestore.
+- 🌱 I’m currently learning AWS, Azure, Firebase.
 
 ### 🛠 Skills
   I have experience in a wide range of technologies, including:
 
 Python, JavaScript, HTML, CSS, React JS, C++, Flutter, Swift, MongoDB,
-Firebase, AWS, Apache Hadoop, PySpark, Docker, Blockchain.
+Firebase, AWS, DynamoDB, AWS Lambda, Apache Hadoop, PySpark, SQL, NoSQL, MongoDB, Docker, Blockchain.
 
 ## 🤝 Connect with me
 
