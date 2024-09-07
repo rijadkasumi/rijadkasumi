@@ -6,7 +6,7 @@ Bachelor’s in Computer Science from Hunter College
 
 ⚡ About me: 
 
-I love Snowboarding, Calisthenics, and Music!
+  I love Snowboarding, Calisthenics, and Music!<br>
 • 🔭 Currently working on a Parking App and LeetCode problems. <br>
 • 🌱 Focused on learning Data Analysis, AWS, Azure, Firebase. <br>
 • 🌍 Completed IBM's Data Analyst Professional Certificate. <br>
