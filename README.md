@@ -29,8 +29,8 @@ Software Development:
 • Cloud Platforms: AWS (Lambda, DynamoDB), Firebase <br>
 • Blockchain: Smart contracts, decentralized apps
 
-💻 Future Projects
-I’m planning to explore:
+💻 Future Projects<br>
+I’m planning to explore:<br>
 • Advanced data visualizations <br>
 • Machine learning models for predictive analytics <br>
 • Building scalable cloud architectures for data processing
