@@ -1,17 +1,53 @@
 ### Hi there 👋 I'm Rijad Kasumi
-  👨‍💻 Software Engineer | 📱App & 🌐 Web Developer | 🌍 New York City
+👨‍💻 Software Engineer | 📊 Data Analyst | 📱 App & 🌐 Web Developer | 🌍 New York City
 
-### 🎓 Education: Computer Sciencec at Hunter College
+### 🎓 Education: 
+Bachelor’s in Computer Science from Hunter College
 
-⚡ About me: I love Snowboarding, Calisthenics, and Music!
-- 🔭 I’m currently working on a Parking App and on LeetCode problems.
-- 🌱 I’m currently learning AWS, Azure, Firebase.
+⚡ About me: 
+I love Snowboarding, Calisthenics, and Music!
+
+🔭 Currently working on a Parking App and LeetCode problems.
+🌱 Focused on learning Data Analysis, AWS, Azure, Firebase.
+🌍 Completed IBM's Data Analyst Professional Certificate.
+📊 Recently uploaded a project analyzing Australian wildfires.
+
 
 ### 🛠 Skills
-  I have experience in a wide range of technologies, including:
+Data Analysis:
 
-Python, JavaScript, HTML, CSS, React JS, C++, Flutter, Swift, MongoDB,
-Firebase, AWS, DynamoDB, AWS Lambda, Apache Hadoop, PySpark, SQL, NoSQL, MongoDB, Docker, Blockchain.
+Languages & Libraries: Python (pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, Excel
+Tools: Jupyter Notebooks, IBM Watson, Tableau, Power BI
+Data Manipulation: Cleaning and transforming data using Python and SQL
+Visualization: Building charts, graphs, and dashboards to present insights
+
+Software Development:
+
+Languages: Python, JavaScript, HTML, CSS, C++, Swift, Flutter
+Frameworks & Libraries: React JS, Docker
+Cloud Platforms: AWS (Lambda, DynamoDB), Firebase
+Blockchain: Smart contracts, decentralized apps
+
+💻 Recent Projects
+1. Australian Wildfires Data Analysis
+
+Analyzed the impact of wildfires in Australia using a public dataset.
+
+Tech Stack: Python (pandas, Matplotlib), Jupyter Notebooks
+Key Insights: Performed exploratory data analysis (EDA), created visualizations to track wildfire spread and the impact of climate factors.
+https://github.com/rijadkasumi/Analyzing-wildfire-activities-in-Australia
+
+2. Parking App
+
+Currently developing a parking app to optimize urban parking management.
+Tech Stack: React JS, Firebase, Swift, AWS
+
+3.IBM Data Analysis Certification Projects
+
+Various hands-on projects completed as part of the IBM Data Analyst Professional Certificate.
+
+Focus Areas: Data wrangling, EDA, and dashboard creation
+
 
 ## 🤝 Connect with me
 
