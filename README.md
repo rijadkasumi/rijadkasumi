@@ -5,12 +5,12 @@
 Bachelor’s in Computer Science from Hunter College
 
 ⚡ About me: 
-I love Snowboarding, Calisthenics, and Music!
 
-🔭 Currently working on a Parking App and LeetCode problems.
-🌱 Focused on learning Data Analysis, AWS, Azure, Firebase.
-🌍 Completed IBM's Data Analyst Professional Certificate.
-📊 Recently uploaded a project analyzing Australian wildfires.
+•I love Snowboarding, Calisthenics, and Music!
+•🔭 Currently working on a Parking App and LeetCode problems.
+•🌱 Focused on learning Data Analysis, AWS, Azure, Firebase.
+•🌍 Completed IBM's Data Analyst Professional Certificate.
+•📊 Recently uploaded a project analyzing Australian wildfires.
 
 
 ### 🛠 Skills
@@ -28,26 +28,11 @@ Frameworks & Libraries: React JS, Docker
 Cloud Platforms: AWS (Lambda, DynamoDB), Firebase
 Blockchain: Smart contracts, decentralized apps
 
-💻 Recent Projects
-1. Australian Wildfires Data Analysis
-
-Analyzed the impact of wildfires in Australia using a public dataset.
-
-Tech Stack: Python (pandas, Matplotlib), Jupyter Notebooks
-Key Insights: Performed exploratory data analysis (EDA), created visualizations to track wildfire spread and the impact of climate factors.
-https://github.com/rijadkasumi/Analyzing-wildfire-activities-in-Australia
-
-2. Parking App
-
-Currently developing a parking app to optimize urban parking management.
-Tech Stack: React JS, Firebase, Swift, AWS
-
-3.IBM Data Analysis Certification Projects
-
-Various hands-on projects completed as part of the IBM Data Analyst Professional Certificate.
-
-Focus Areas: Data wrangling, EDA, and dashboard creation
-
+💻 Future Projects
+  I’m planning to explore:
+•Advanced data visualizations
+•Machine learning models for predictive analytics
+•Building scalable cloud architectures for data processing
 
 ## 🤝 Connect with me
 
