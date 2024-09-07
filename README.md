@@ -30,7 +30,7 @@ Software Development:
 • Blockchain: Smart contracts, decentralized apps
 
 💻 Future Projects<br>
-I’m planning to explore:<br>
+  I’m planning to explore:<br>
 • Advanced data visualizations <br>
 • Machine learning models for predictive analytics <br>
 • Building scalable cloud architectures for data processing
