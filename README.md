@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Rijad Kasumi
-👨‍💻 Software Engineer | 📊 Data Analyst | 📱 App & 🌐 Web Developer | 🌍 New York City
+👨‍💻 Software Engineer | 📊 Data Engineer/Analyst | 📱 App & 🌐 Web Developer | 🌍 New York City
 
 ### 🎓 Education: 
 Bachelor’s in Computer Science from Hunter College
